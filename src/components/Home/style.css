@@ -1,0 +1,10 @@
+.main__container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input__container {
+  display: flex;
+}
